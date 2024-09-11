@@ -3,3 +3,4 @@ submitit
 scipy
 onnx
 onnxruntime
+pycocotools
