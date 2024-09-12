@@ -1,7 +1,6 @@
 cython
 submitit
-torch
-torchvision
 scipy
 onnx
 onnxruntime
+pycocotools
