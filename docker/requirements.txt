@@ -4,3 +4,5 @@ scipy
 onnx
 onnxruntime
 pycocotools
+tqdm
+fsspec
